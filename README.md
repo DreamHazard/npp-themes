@@ -7,3 +7,8 @@ To install themes, copy the xml file to %appdata%\Notepad++\userDefineLangs and 
 ![image](https://github.com/DreamHazard/npp-themes/assets/10675364/47d23b6e-2b67-4aca-9cc2-cbfc25ae7369)
 
 Click the Import button and navigate to the xml file, then click Save As to save to the User Defined Language menu
+
+## Themes
+
+**Velocity Dark**: A dark mode Apache Velocity syntax highlighting theme compatible with Solarized Dark, choco, etc
+**EDIFACT Dark**: A dark mode generic EDIFACT syntax highlighting theme compatible with Solarized Dark, choco, etc
